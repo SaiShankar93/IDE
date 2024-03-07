@@ -206,3 +206,8 @@ body {
 input[type="text"] {
     width: 205px !important;
 }
+
+
+.timer{
+    color: white;
+}
